@@ -20,13 +20,7 @@ Prerequisites: Node.js (16+ recommended) and npm installed.
 npm install
 ```
 
-2. Install the Tailwind CSS animate utilities (optional, used by some components):
-
-```
-npm install tailwindcss-animate
-```
-
-3. Start the Vite development server:
+2. Start the Vite development server:
 
 ```
 npm run dev
